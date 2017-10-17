@@ -1,6 +1,6 @@
 {
   "name": "@mikield/adonis-true-traits",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The real traits for AdonisJS Framework (extending the class with native `extend` function",
   "main": "ServiceProvider.js",
   "repository": {
