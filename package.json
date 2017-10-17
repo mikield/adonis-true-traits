@@ -1,0 +1,20 @@
+{
+  "name": "@mikield/adonis-true-traits",
+  "version": "0.0.5",
+  "description": "The real traits for AdonisJS Framework (extending the class with native `extend` function",
+  "main": "ServiceProvider.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikield/adonis-true-traits.git"
+  },
+  "keywords": [
+    "AdonisJS",
+    "Traits"
+  ],
+  "author": "Vladyslav Gaysyuk <mikield@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikield/adonis-true-traits/issues"
+  },
+  "homepage": "https://github.com/mikield/adonis-true-traits#readme"
+}
