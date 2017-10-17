@@ -28,3 +28,20 @@ class User extends Model {
 
 module.exports = mix(User).with(MyTrait)
 ```
+
+### And example of the Trait
+```js
+"use strict";
+
+const Trait = (BaseClass) => class extends BaseClass { //Or BaseClass can be Model (name it as you want :smile:)
+    myFunction(){
+      return "Hi from the Trait"
+    }
+
+    get myParam(){
+      return "The param from Trait"
+    }
+}
+module.exports = Trait;
+
+```
